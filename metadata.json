@@ -1,0 +1,6 @@
+{
+  "name": "HỌC TIẾNG TRUNG CÙNG CICI CHINESE",
+  "description": "Học tiếng Trung cùng CiCi Chinese - Hệ sinh thái học tiếng Trung chuyên sâu chuẩn HSK 3.0 & Giao tiếp thực chiến cùng gia sư ảo AI CiCi, kết nối cơ sở dữ liệu lớp học trực tuyến Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
